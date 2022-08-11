@@ -1,0 +1,25 @@
+{
+  "notes":[
+    {
+      "id" : 0,
+      "title": "First post!",
+      "description" : "My first content!", 
+      "subtask": [
+        { 
+          "id" : 0,
+          "task": "subtask - 1"
+        }
+      ],
+      "date": "28/july/2022", 
+      "todo_status": "Todo",
+      "todo_tag":"Offical"
+    }
+  ],
+  "subtask" : [
+    {
+      "id": 0,
+      "content": "Wow such content!",
+      "username": "zero_cool"
+    }
+  ]
+}
