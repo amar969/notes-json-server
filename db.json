@@ -4,13 +4,7 @@
       "id" : 0,
       "title": "First post!",
       "description" : "My first content!", 
-      "subtask": [
-       {
-         "id" : 1,
-         "task": "Subtask - 1",
-         "status": true
-        }
-      ],
+      "subtask": "Subtask - 1",
       "date": "28/july/2022", 
       "todo_status": "Todo",
       "todo_tag":"Offical"
@@ -19,13 +13,7 @@
       "id" : 1,
       "title": "Second post!",
       "description" : "My first content!", 
-      "subtask": [
-       {
-         "id" : 1,
-         "task": "Subtask - 1",
-         "status": true
-        }
-      ],
+      "subtask": "subtask  - 1",
       "date": "28/july/2022", 
       "todo_status": "Done",
       "todo_tag":"Personal"
