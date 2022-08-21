@@ -4,18 +4,6 @@
       "id" : 0,
       "title": "First post!",
       "description" : "My first content!", 
-      "subtask": [
-        {
-          "id": 1,
-          "title": "Subtask - 1", 
-          "status" : "false"
-        }, 
-        {
-          "id": 2,
-          "title": "Subtask - 2", 
-          "status" : "false" 
-        }
-      ],
       "date": "28/july/2022", 
       "todo_status": "Todo",
       "todo_tag":"Offical"
@@ -24,21 +12,37 @@
       "id" : 1,
       "title": "Second post!",
       "description" : "My first content!", 
-      "subtask": [
-        {
-          "id": 1,
-          "title": "Subtask - 1", 
-          "status" : "false"
-        }, 
-        {
-          "id": 2,
-          "title": "Subtask - 2", 
-          "status" : "false" 
-        }
-      ],
       "date": "28/july/2022", 
       "todo_status": "Done",
       "todo_tag":"Personal"
     }
+  ],
+
+  "subtask": [
+    {
+      "id": 1,
+      "title": "Subtask - 1", 
+      "status" : "false",
+      "noteId": 0
+    }, 
+    {
+      "id": 2,
+      "title": "Subtask - 2", 
+      "status" : "false",
+      "noteId":0
+    },
+    {
+      "id": 1,
+      "title": "Subtask - 1", 
+      "status" : "false",
+      "noteId": 1
+    }, 
+    {
+      "id": 2,
+      "title": "Subtask - 2", 
+      "status" : "false",
+      "noteId":1
+    }
+    
   ]
 }
