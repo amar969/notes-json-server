@@ -24,25 +24,12 @@
       "title": "Subtask - 1", 
       "status" : "false",
       "noteId": 0
-    }, 
-    {
-      "id": 2,
-      "title": "Subtask - 2", 
-      "status" : "false",
-      "noteId":0
     },
     {
-      "id": 3,
+      "id": 2,
       "title": "Subtask - 1", 
       "status" : "false",
       "noteId": 1
-    }, 
-    {
-      "id": 4,
-      "title": "Subtask - 2", 
-      "status" : "false",
-      "noteId":1
     }
-    
   ]
 }
